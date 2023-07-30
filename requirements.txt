@@ -1,1 +1,5 @@
 openai-whisper
+langchain
+huggingface_hub
+wikipedia
+openai
