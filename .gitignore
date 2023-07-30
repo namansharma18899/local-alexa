@@ -1,2 +1,3 @@
 testenv/
 *.log
+node_modules/
